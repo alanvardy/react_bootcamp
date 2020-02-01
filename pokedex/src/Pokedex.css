@@ -1,0 +1,10 @@
+.Pokedex {
+    width: 800px;
+    margin: 100px 100px;
+}
+
+h1.Pokedex-title {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    color: grey;
+}
